@@ -212,4 +212,6 @@ dist
 # Ignore all local history of files
 .history
 
+
+.webpack
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,intellij+all
